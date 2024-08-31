@@ -189,6 +189,7 @@ const Studentlist = ({ Teacher,First_Period,Second_Period,Class_Date }) => {
 
                 </tbody>
             </table>
+            {/* <div>ami</div> */}
         </div>
 
 
